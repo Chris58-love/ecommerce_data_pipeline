@@ -1,0 +1,7 @@
+pandas
+openpyxl
+xlsxwriter
+xlrd
+requests
+pyyaml
+pytest
